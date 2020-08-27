@@ -2,4 +2,4 @@
 Plugin équipements pour Jeedom
 
 ![Logo Jeedom](docs/images/jeedom.png "Logo Jeedom")
-![Logo plugin](docs/images/equipements_icon.png "Logo plugin")
+![Logo plugin](docs/images/plugin.png "Logo plugin")
