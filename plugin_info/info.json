@@ -1,0 +1,11 @@
+{
+    "id": "equipements",
+    "name": "Equipements",
+    "description": "Plugin permettant de créer des équipements virtuels dans Jeedom avec des templates et widgets préinstallé",
+    "licence": "AGPL",
+    "author": "Yoann Filloux",
+    "require": "4",
+    "category": "programming",
+    "changelog": "",
+    "documentation": ""
+}
