@@ -6,6 +6,6 @@
     "author": "Yoann Filloux",
     "require": "3",
     "category": "programming",
-    "changelog": "",
+    "changelog": "https://github.com/yoannfilloux/plugin-jeedom-equipements/blob/stable/docs/fr_FR/changelog.md",
     "documentation": "https://github.com/yoannfilloux/plugin-jeedom-equipements/blob/stable/docs/fr_FR/index.md"
 }
